@@ -1,4 +1,5 @@
 # 👋 Hi, I'm **Pagadala Teja Prakash**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pagadala%20Teja%20Prakash%20🚀&fontSize=35&fontAlign=center&desc=AI%20in%20Medical%20Engineering%20%7C%20ML%20Researcher%20%7C%20Future%20Innovator&descAlign=center)
 
 **AI Enthusiast** | **AI & DS in Medical Engineering** | **Future AI Leader** | **Aspiring HealthTech Innovator**
 
