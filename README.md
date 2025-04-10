@@ -20,10 +20,15 @@ I’m a **seriously committed and deeply curious individual**, constantly pushin
 
 🛠️ **Technologies & Skills**
 
-- **Languages**: Python, Java
-- **Frameworks & Tools**: Streamlit, Pandas, Scikit-learn
-- **Domains**: Machine Learning, Medical AI Applications
-- **Soft Skills**: Communication, Teamwork, Leadership
+🐍 Python Programming
+💻 C and C++ Programming
+🔹 Object-Oriented Programming
+🔌 Arduino IDE
+🗄️ SQL
+📊 MATLAB - Data Analysis
+🤖 Machine and Deep Learning
+🧠 Analytical and Critical Thinking
+🗣️ Fluent in English
 
 ---
 
