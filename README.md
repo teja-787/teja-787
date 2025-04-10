@@ -54,12 +54,11 @@ I’m a **seriously committed and deeply curious individual**, constantly pushin
 - **Expected Graduation**: 2028
 
 ---
+### 📫 Connect with Me
 
-📫 **Get in Touch**
-
-- 📧 Email: [tejaprakash787@gmail.com](mailto\:tejaprakash787@gmail.com)
-- 💼 LinkedIn: [teja-prakash-royal](https://in.linkedin.com/in/teja-prakash-royal-a765a832b)
-- 💻 GitHub: [@teja-787](https://github.com/teja-787)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TejaPrakash-blue?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/teja-prakash-royal-a765a832b)
+[![Gmail](https://img.shields.io/badge/Gmail-tejaprakash787@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaprakash787@gmail.com)
+GitHub: [@teja-787](https://github.com/teja-787)
 
 ---
 
