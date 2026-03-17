@@ -132,7 +132,7 @@ fun_fact:The best code is the code you never had to write. 🚀
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technologies I am familiar
 
 <div align="center">
 
