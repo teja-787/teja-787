@@ -132,7 +132,7 @@ fun_fact:The best code is the code you never had to write. 🚀
 
 ---
 
-## 🛠️ Technologies I am familiar
+## 🛠️ Tech stack
 
 <div align="center">
 
