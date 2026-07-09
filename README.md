@@ -1,55 +1,62 @@
 <div align="center">
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=280&section=header&text=Pagadala%20Teja%20Prakash&fontSize=48&fontColor=00d4ff&animation=twinkling&fontAlignY=60&desc=Biomedical%20AI%20Engineer%20|%20Builder%20|%20Medical%20Engineering&descAlignY=80&descColor=ffffff"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=250&section=header&text=Pagadala%20Teja%20Prakash&fontSize=46&fontColor=00D4FF&animation=twinkling&fontAlignY=55&desc=AI%20•%20Data%20Science%20•%20Software%20Engineering&descAlignY=74&descColor=FFFFFF"/>
 
-### 🦾 Building AI that interacts with the physical world.
+<h3>Building intelligent software with AI.</h3>
 
- AI and Software Engineering 
+<p>
+<b>Machine Learning</b> • <b>Data Science</b> • <b>Software Engineering</b> • <b>Computer Vision</b>
+</p>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=40&lines=Building+AI+Applications;Machine+Learning+%26+Deep+Learning;Computer+Vision;Backend+Development;Always+Learning+Something+New"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=850&lines=EMG+Signals+%E2%86%92+Intelligent+Prosthetics;Computer+Vision+for+Healthcare;Biomedical+Signal+Processing;Building+AI+Beyond+the+Screen"/>
-
-<br>
-
-<a href="https://in.linkedin.com/in/teja-prakash-royal-a765a832b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:tejaprakash787@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p>
 <a href="https://github.com/teja-787">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://in.linkedin.com/in/teja-prakash-royal">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:tejaprakash787@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=teja-787&style=flat-square&color=00d4ff)
+<img src="https://komarev.com/ghpvc/?username=teja-787&style=flat-square&color=00D4FF"/>
 
 </div>
 
----
+
+
 
 # 👨‍💻 About Me
 
-I'm a **B.Tech AI & Data Science** student at **Amrita Vishwa Vidyapeetham**.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-I enjoy building systems that connect **AI, embedded hardware, and healthcare**. My interests span biomedical signal processing, computer vision, machine learning, edge AI, and modern full-stack development.
+I'm a **B.Tech student in Artificial Intelligence & Data Science** at **Amrita Vishwa Vidyapeetham**.
 
-### Current Focus
+I'm passionate about building intelligent software and continuously learning new technologies. My interests include **Machine Learning, Data Science, Software Engineering, Computer Vision, Backend Development, and Full-Stack Development**.
 
-- 🦾 EMG-Controlled Prosthetic Hand
-- 🧠 Biomedical Signal Processing (EMG, ECG, EEG)
-- 🤖 Deep Learning with PyTorch
+### 🚀 Currently Exploring
+
+- 🤖 Machine Learning & Deep Learning
 - 👁️ Computer Vision
-- 🌐 Full-Stack Applications
-- ⚡ Embedded Systems & FPGA
+- 🌐 Full-Stack Development
+- ⚡ Backend Engineering
+- 📊 Data Science
+- 💻 Open Source
 
----
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 # 🚀 Featured Projects
 
@@ -139,7 +146,7 @@ React • Node.js • MongoDB • Socket.IO
 </tr>
 </table>
 
-# 🛠 Tech Stack
+# 🛠 Tech stack
 
 <div align="center">
 
@@ -204,6 +211,15 @@ React • Node.js • MongoDB • Socket.IO
 
 </div>
 
+## 🏅 Achievements
+
+🏆 Participated in 3x hackathons on blackchain, web3 and AI  
+
+🥇 Top 15 in a tech fest and presented our project to whole collage 
+
+📜 Trying to contribute to open source
+
+🎖️ Researching in AI, medical advancements and exploring new technologies
 
 # 📊 GitHub Activity
 
@@ -212,10 +228,8 @@ React • Node.js • MongoDB • Socket.IO
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=teja-787&theme=tokyo-night&hide_border=true&area=true"/>
 
 <br><br>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=teja-787&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=teja-787&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teja-787&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -232,7 +246,7 @@ React • Node.js • MongoDB • Socket.IO
 
 ---
 
-# 📫 Let's Connect
+# 📫 Let's Connect and build Future
 
 - 💼 LinkedIn: https://in.linkedin.com/in/teja-prakash-royal
 - 📧 Email: tejaprakash787@gmail.com
