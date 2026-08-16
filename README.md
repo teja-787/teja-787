@@ -259,6 +259,7 @@ React • Node.js • MongoDB • Socket.IO
 ### ⭐ *Building AI that makes a real-world impact.*
 
 If you like my work, consider giving a ⭐ to my repositories!
+i write my blogs here [https://medium.com/@tejaprakash787](https://medium.com/@tejaprakash787)
 
 </div>
 
