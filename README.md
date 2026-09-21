@@ -5,10 +5,10 @@
 <h3>Building intelligent software with AI.</h3>
 
 <p>
-<b>Machine Learning</b> • <b>Data Science</b> • <b>Software Engineering</b> • <b>Computer Vision</b>
+<b>Machine Learning</b> • <b>Data Science</b> • <b>Software Engineering</b> • <b> Cyber Security engineer</b>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=40&lines=Building+AI+Applications;Machine+Learning+%26+Deep+Learning;Computer+Vision;Backend+Development;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=40&lines=Building+AI+Applications;Machine+Learning+%26+Deep+Learning;Cyber+Security;Backend+Development;Always+Learning+Something+New"/>
 
 <p>
 <a href="https://github.com/teja-787">
@@ -37,7 +37,7 @@
 
 I'm a **B.Tech student in Artificial Intelligence & Data Science** at **Amrita Vishwa Vidyapeetham**.
 
-I'm passionate about building intelligent software and continuously learning new technologies. My interests include **Machine Learning, Data Science, Software Engineering, Computer Vision, Backend Development, and Full-Stack Development**.
+I'm passionate about building intelligent software and continuously learning new technologies. My interests include **Machine Learning, Data Science, Software Engineering, Computer Vision, Backend Development, Full-Stack Development and Cybersecurity**.
 
 ### 🚀 Currently Exploring
 
